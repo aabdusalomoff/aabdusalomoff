@@ -10,6 +10,8 @@ I'm an backend developer building my version of the digital world one step at a 
 <tr>
 <td align="center" width="45%">
 
+<!-- 🎮 ADD YOUR CUTE BOY WITH PINK COMPUTERS IMAGE HERE! 🎮 -->
+<!-- Replace this URL with your pink computer boy image -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cool Boy Developer Animation" style="border-radius: 15px; box-shadow: 0 0 20px rgba(79, 172, 254, 0.3);" />
 
 **🔥 Cool Facts:**
