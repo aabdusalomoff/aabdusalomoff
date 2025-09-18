@@ -1,18 +1,11 @@
 <div align="center">
 
 <!-- Ultra Premium Animated Header for Boys -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Izzatulloh%20Karimov%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Azizbek%20Abdusalomov%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
 
 <!-- Cool Boy Developer Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=750&lines=⚡+Building+Epic+Web+Applications+⚡;🚀+Python+%7C+FastAPI+%7C+Clean+Code+🚀;💎+Crafting+Digital+Solutions+💎;🔥+Always+Coding%2C+Always+Growing+🔥" alt="Cool Typing Animation" />
 
-<!-- Cool Status Badges -->
-<div style="margin: 30px 0;">
-<img src="https://img.shields.io/badge/🏠_Andijan,_Uzbekistan_🇺🇿-4FACFE?style=for-the-badge&logo=home&logoColor=white&labelColor=667eea" />
-<img src="https://img.shields.io/badge/💻_Python_Developer_🐍-00F2FE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea" />
-<img src="https://img.shields.io/badge/🎯_Backend_Expert_⚡-764ba2?style=for-the-badge&logo=server&logoColor=white&labelColor=667eea" />
-<img src="https://img.shields.io/badge/🌱_Tech_Explorer_🚀-32CD32?style=for-the-badge&logo=lightbulb&logoColor=white&labelColor=667eea" />
-</div>
 
 <!-- Cool Counter -->
 <img src="https://komarev.com/ghpvc/?username=aabdusalomoff&style=for-the-badge&color=4FACFE&label=👀+VISITORS&labelColor=667eea" />
