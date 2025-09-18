@@ -26,6 +26,7 @@ I'm an backend developer building my version of the digital world one step at a 
 <td align="center" width="55%">
 
 ---
+
 ## ⚡ My Tech Arsenal
 
 <div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 20px; border-radius: 15px; margin: 20px 0;">
@@ -33,6 +34,8 @@ I'm an backend developer building my version of the digital world one step at a 
 ### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python_🐍-4FACFE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea)
 ![FastAPI](https://img.shields.io/badge/FastAPI_⚡-00F2FE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=667eea)
+![JavaScript](https://img.shields.io/badge/JavaScript_💛-764ba2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=667eea)
+![React](https://img.shields.io/badge/React_⚛️-32CD32?style=for-the-badge&logo=react&logoColor=white&labelColor=667eea)
 ![Django](https://img.shields.io/badge/Django_🎯-9370DB?style=for-the-badge&logo=django&logoColor=white&labelColor=667eea)
 
 ### 🛠️ Tools & Databases
@@ -48,7 +51,6 @@ I'm an backend developer building my version of the digital world one step at a 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
 </div>
-
 ---
    
 <!-- Cool Boy Developer Typing Animation -->
