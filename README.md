@@ -7,6 +7,9 @@ I'm an backend developer building my version of the digital world one step at a 
 ---
 ## 👨‍💻 About Me
 
+<!-- Ultra Premium Animated Header for Boys -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Izzatulloh%20Karimov%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
+
 <table align="center">
 <tr>
 <td align="center" width="45%">
