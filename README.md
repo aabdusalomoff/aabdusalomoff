@@ -77,8 +77,6 @@ print(f"Current mode: {me.daily_grind()}")
 ### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python_🐍-4FACFE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea)
 ![FastAPI](https://img.shields.io/badge/FastAPI_⚡-00F2FE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=667eea)
-![JavaScript](https://img.shields.io/badge/JavaScript_💛-764ba2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=667eea)
-![React](https://img.shields.io/badge/React_⚛️-32CD32?style=for-the-badge&logo=react&logoColor=white&labelColor=667eea)
 ![Django](https://img.shields.io/badge/Django_🎯-9370DB?style=for-the-badge&logo=django&logoColor=white&labelColor=667eea)
 
 ### 🛠️ Tools & Databases
@@ -157,7 +155,7 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 <br><br>
 
-<a href="https://t.me/krmv772">
+<a href="https://t.me/aabdusalomoff">
 <img src="https://img.shields.io/badge/💬_Telegram-4FACFE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=667eea" />
 </a>
 <a href="mailto:aziz.abdusalomov555@mail.ru">
@@ -169,12 +167,6 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 <br><br>
 
-<a href="https://www.buymeacoffee.com/karimov">
-<img src="https://img.shields.io/badge/☕_Buy_Me_Coffee-FFD700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=667eea" height="40" />
-</a>
-
-</div>
-
 ---
 
 <!-- Cool Footer -->
@@ -185,6 +177,6 @@ print("⚡ Every bug is just another boss to defeat! ⚡")
 
 <br>
 
-<sub>⚡ Built with 💻, ☕ and lots of 🚀 by <strong>Izzatulloh Karimov</strong> | 2025 ⚡</sub>
+<sub>⚡ Built with 💻, ☕ and lots of 🚀 by <strong>Azizbek Abdusalomov</strong> | 2025 ⚡</sub>
 
 </div>
