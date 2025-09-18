@@ -3,6 +3,29 @@
 **`Digital Craftsman (Developer`**
 
 I'm an backend developer building my version of the digital world one step at a time.
+
+---
+
+<table align="center">
+<tr>
+<td align="center" width="45%">
+
+<!-- 🎮 ADD YOUR CUTE BOY WITH PINK COMPUTERS IMAGE HERE! 🎮 -->
+<!-- Replace this URL with your pink computer boy image -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cool Boy Developer Animation" style="border-radius: 15px; box-shadow: 0 0 20px rgba(79, 172, 254, 0.3);" />
+
+**🔥 Cool Facts:**
+- 🎮 Love building awesome projects
+- ☕ Fueled by coffee and curiosity  
+- 🚀 Always pushing boundaries
+- 💎 Passionate about clean code
+- 🌟 Making the web better, one line at a time
+
+</td>
+<td align="center" width="55%">
+
+---
+
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
