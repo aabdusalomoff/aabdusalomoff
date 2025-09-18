@@ -22,12 +22,7 @@ I'm an backend developer building my version of the digital world one step at a 
 - 💎 Passionate about clean code
 - 🌟 Making the web better, one line at a time
 
-</td>
-<td align="center" width="55%">
-
 ---
-
-#
 
 ## ⚡ My Tech Arsenal
 
@@ -36,14 +31,8 @@ I'm an backend developer building my version of the digital world one step at a 
 ### 🚀 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python_🐍-4FACFE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea)
 ![FastAPI](https://img.shields.io/badge/FastAPI_⚡-00F2FE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=667eea)
-![JavaScript](https://img.shields.io/badge/JavaScript_💛-764ba2?style=for-the-badge&logo=javascript&logoColor=white&labelColor=667eea)
-![React](https://img.shields.io/badge/React_⚛️-32CD32?style=for-the-badge&logo=react&logoColor=white&labelColor=667eea)
-![Django](https://img.shields.io/badge/Django_🎯-9370DB?style=for-the-badge&logo=django&logoColor=white&labelColor=667eea)
 
 ### 🛠️ Tools & Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL_🐘-4FACFE?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=667eea)
-![MongoDB](https://img.shields.io/badge/MongoDB_🍃-00F2FE?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=667eea)
-![Docker](https://img.shields.io/badge/Docker_🐳-764ba2?style=for-the-badge&logo=docker&logoColor=white&labelColor=667eea)
 ![Git](https://img.shields.io/badge/Git_🌿-32CD32?style=for-the-badge&logo=git&logoColor=white&labelColor=667eea)
 ![VS Code](https://img.shields.io/badge/VS_Code_💜-9370DB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=667eea)
 
