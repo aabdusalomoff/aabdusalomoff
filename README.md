@@ -6,35 +6,31 @@ I'm an backend developer building my version of the digital world one step at a 
 
 ---
 
-## 👨‍💻 About Me
-
-<!-- Ultra Premium Animated Header for Boys -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Izzatulloh%20Karimov%20🚀%20Python%20Developer&descAlignY=65&fontColor=ffffff&fontSize=38&fontAlignY=32&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
+<!-- Ultra Premium Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=⚡%20Assalomu%20Alaykum!%20⚡&desc=Izzatulloh%20Karimov%20🚀%20Python%20Developer&descAlignY=70&fontColor=ffffff&fontSize=38&fontAlignY=30&animation=fadeIn&fontAlign=50&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&stroke=ffffff&strokeWidth=3" />
 
 <table align="center">
 <tr>
 <td align="center" width="45%">
 
-<!-- 🎮 ADD YOUR CUTE BOY WITH PINK COMPUTERS IMAGE HERE! 🎮 -->
-<!-- Replace this URL with your pink computer boy image -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cool Boy Developer Animation" style="border-radius: 15px; box-shadow: 0 0 20px rgba(79, 172, 254, 0.3);" />
 
 **🔥 Cool Facts:**
-- 🎮 Love building awesome projects
+- 🎮 Love building awesome projects  
 - ☕ Fueled by coffee and curiosity  
-- 🚀 Always pushing boundaries
-- 💎 Passionate about clean code
-- 🌟 Making the web better, one line at a time
-
+- 🚀 Always pushing boundaries  
+- 💎 Passionate about clean code  
+- 🌟 Making the web better, one line at a time  
 
 </td>
 </tr>
 </table>
 
-<!-- Working Divider -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </div>
+
+
 ---
 
 ## ⚡ My Tech Arsenal
