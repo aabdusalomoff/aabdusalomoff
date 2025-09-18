@@ -26,17 +26,30 @@ I'm an backend developer building my version of the digital world one step at a 
 <td align="center" width="55%">
 
 ---
+## ⚡ My Tech Arsenal
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/aabdusalomoff?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/aabdusalomoff?tab=repositories&sort=stargazers">
-         
-   </p>
+<div align="center" style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 20px; border-radius: 15px; margin: 20px 0;">
+
+### 🚀 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python_🐍-4FACFE?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea)
+![FastAPI](https://img.shields.io/badge/FastAPI_⚡-00F2FE?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=667eea)
+![Django](https://img.shields.io/badge/Django_🎯-9370DB?style=for-the-badge&logo=django&logoColor=white&labelColor=667eea)
+
+### 🛠️ Tools & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_🐘-4FACFE?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=667eea)
+![MongoDB](https://img.shields.io/badge/MongoDB_🍃-00F2FE?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=667eea)
+![Docker](https://img.shields.io/badge/Docker_🐳-764ba2?style=for-the-badge&logo=docker&logoColor=white&labelColor=667eea)
+![Git](https://img.shields.io/badge/Git_🌿-32CD32?style=for-the-badge&logo=git&logoColor=white&labelColor=667eea)
+![VS Code](https://img.shields.io/badge/VS_Code_💜-9370DB?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=667eea)
+
+</div>
+
+<!-- Working Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" />
+</div>
+
+---
    
 <!-- Cool Boy Developer Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=800&color=4FACFE&center=true&vCenter=true&width=750&lines=⚡+Building+Epic+Web+Applications+⚡;🚀+Python+%7C+FastAPI+%7C+Clean+Code+🚀;💎+C+Problem+Solution+Thinking💎;🔥+Always+Coding%2C+Always+Growing+🔥" alt="Cool Typing Animation" />
