@@ -22,6 +22,16 @@ I'm an backend developer building my version of the digital world one step at a 
 - 💎 Passionate about clean code
 - 🌟 Making the web better, one line at a time
 
+
+</td>
+</tr>
+</table>
+
+<!-- Working Divider -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
 ---
 
 ## ⚡ My Tech Arsenal
