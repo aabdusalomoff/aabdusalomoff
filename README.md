@@ -70,11 +70,13 @@ I’m a backend developer shaping my digital journey step by step — building e
 
 <!-- Cool Footer -->
 
+<div align="center">
+   
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=4FACFE&center=true&vCenter=true&width=400&lines=⚡+Thanks+for+checking+out+my+profile!+⚡;🚀+Let's+build+the+future+together!+🚀;💻+Always+coding%2C+always+improving!+💻" />
 
 <br>
 
-<sub>⚡ Built with 💻, ☕ and lots of 🚀 by <strong>Izzatulloh Karimov</strong> | 2025 ⚡</sub>
+<sub>⚡ Built with 💻, ☕ and lots of 🚀 by <strong>Azizbek Abdusalomov</strong> | 2025 ⚡</sub>
 
 </div>
 
