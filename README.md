@@ -1,8 +1,8 @@
 # Azizbek | Backend Developer
 
-**`Digital Craftsman (Developer`**
+**`💻 Backend Developer`**
 
-I'm an backend developer building my version of the digital world one step at a time.
+I’m a backend developer shaping my digital journey step by step — building efficient solutions, growing every day, and pushing my limits both in code and in life.
 
 ---
 
