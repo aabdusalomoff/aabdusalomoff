@@ -69,8 +69,6 @@ I’m a backend developer shaping my digital journey step by step — building e
 </div>
 
 <!-- Cool Footer -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradient=667eea,764ba2,4facfe,00f2fe&height=120&section=footer&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=2000&color=4FACFE&center=true&vCenter=true&width=400&lines=⚡+Thanks+for+checking+out+my+profile!+⚡;🚀+Let's+build+the+future+together!+🚀;💻+Always+coding%2C+always+improving!+💻" />
 
