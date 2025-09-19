@@ -15,11 +15,11 @@ I'm an backend developer building my version of the digital world one step at a 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cool Boy Developer Animation" style="border-radius: 15px; box-shadow: 0 0 20px rgba(79, 172, 254, 0.3);" />
 
 **🔥 Cool Facts:**
-- 🎮 Love building awesome projects  
-- ☕ Fueled by coffee and curiosity  
-- 🚀 Always pushing boundaries  
-- 💎 Passionate about clean code  
-- 🌟 Making the web better, one line at a time  
+- 🏋️ Love hitting the gym and building strength
+- 🎣 Passionate about fishing and the outdoors
+- 💻 Future backend developer in the making
+- 📚 Always learning and growing
+- 🚀 Dreaming big and aiming for global opportunities 
 
 </td>
 </tr>
