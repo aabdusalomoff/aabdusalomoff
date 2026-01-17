@@ -26,21 +26,30 @@
 <div align="center">
 
 ### 🚀 Backend
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" />
 
 ### 🗄️ Databases & Caching
-<img src="https://skillicons.dev/icons?i=postgres,redis" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />
 
 ### 🔄 Async & Background Tasks
-<img src="https://skillicons.dev/icons?i=celery" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/celery/celery-original.svg" />
 
 ### 🛠️ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" />
 
 ### 🧪 Testing & Tools
-<img src="https://skillicons.dev/icons?i=pytest,git,vscode,postman" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
 
 </div>
+
 
 ---
 
@@ -91,9 +100,12 @@
 
 ## 🐍 Contribution Snake (Animated)
 
-<div align="center">
-<img src="https://github.com/aabdusalomoff/aabdusalomoff/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aabdusalomoff/aabdusalomoff/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aabdusalomoff/aabdusalomoff/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aabdusalomoff/aabdusalomoff/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
 
 ---
 
