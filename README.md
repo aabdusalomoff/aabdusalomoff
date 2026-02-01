@@ -1,23 +1,7 @@
 # Azizbek Abdusalomov — Backend Developer
 
-🌐 <b>Live Portfolio:</b><br>
-👉 <a href="https://azizbek-portfolio.pages.dev" target="_blank">https://azizbek-portfolio.pages.dev</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-azizbek--portfolio.pages.dev-0A66C2?style=for-the-badge)](https://azizbek-portfolio.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azizbek_Abdusalomov-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/azizbek-abdusalomov)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziz.abdusalomov555@mail.ru)
 
 Backend Developer (Python) focused on clean, scalable APIs and maintainable backend systems.
-
----
-
-## 🧰 Tech Stack
-
-**Backend:** Python, Django, DRF, FastAPI  
-**Database:** PostgreSQL, Redis  
-**Async & Tasks:** Celery  
-**DevOps:** Docker, Linux, Nginx, GitHub Actions  
-**Testing:** pytest
-
----
-
-## 📫 Contact
-
-- Email: <a href="mailto:aziz.abdusalomov555@mail.ru" target="_blank">aziz.abdusalomov555@mail.ru</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/azizbek-abdusalomov" target="_blank">Azizbek Abdusalomov</a>
