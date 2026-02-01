@@ -1,7 +1,7 @@
 # Azizbek Abdusalomov — Backend Developer
 
-🌐 **Live Portfolio:**  
-👉 https://azizbek-portfolio.pages.dev
+🌐 <b>Live Portfolio:</b><br>
+👉 <a href="https://azizbek-portfolio.pages.dev" target="_blank">https://azizbek-portfolio.pages.dev</a>
 
 Backend Developer (Python) focused on clean, scalable APIs and maintainable backend systems.
 
@@ -19,5 +19,5 @@ Backend Developer (Python) focused on clean, scalable APIs and maintainable back
 
 ## 📫 Contact
 
-- Email: aziz.abdusalomov555@mail.ru
-- LinkedIn: https://www.linkedin.com/in/azizbek-abdusalomov
+- Email: <a href="mailto:aziz.abdusalomov555@mail.ru" target="_blank">aziz.abdusalomov555@mail.ru</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/azizbek-abdusalomov" target="_blank">Azizbek Abdusalomov</a>
